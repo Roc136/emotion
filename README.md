@@ -1,6 +1,8 @@
 # emotion
 ### 利用python将所有表情整理成可用的json格式，并添加部分表情的名字。
 
+共计3555个表情。
+Fork from https://github.com/blogimg/emotion
 大家可以选取自己需要的部分复制，同时也欢迎大家一起来完善这份json表
 
 ```json
